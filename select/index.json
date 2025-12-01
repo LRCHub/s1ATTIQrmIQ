@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Судно (Борис Рыжий)",
+  "base_artist": "Molchat Doma",
+  "createdAt": "2025-12-01T08:22:07.569482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Судно (Борис Рыжий)",
+      "artist": "Molchat Doma",
+      "has_synced": true,
+      "path": "select/01_Судно_(Борис_Рыжий)_Molchat_Doma.lrc"
+    }
+  ]
+}
